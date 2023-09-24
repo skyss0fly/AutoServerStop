@@ -12,7 +12,7 @@ public function onLoad(): void {
   $this->saveDefaultConfig();
 
   $this->sleep($this->getConfig()->get("TimeForReboot")*60);
-  $this->getServer()->stopServer();
+  $this->getServer()->shutdown();
 
 }
 
