@@ -1,0 +1,13 @@
+# Messages:
+
+10: "10 Minutes Till Server stops!"
+
+5: "5 Minutes Till Server stops!"
+
+2: "2 Minutes Till Server stops!"
+
+1: "1 Minute Till Server stops! Stop what you are doing!"
+
+
+TimeForReboot: 60
+# 1 hour
